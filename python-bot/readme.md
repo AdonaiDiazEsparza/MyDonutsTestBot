@@ -21,3 +21,7 @@ pip install -r requirements.txt
 When you finish all this steps, you can program and run your own bot
 
 ## Development
+By the moment I will use the documentation for the guide on this pages:
+
+- https://docs.python-telegram-bot.org/en/stable/
+- https://github.com/python-telegram-bot/python-telegram-bot
